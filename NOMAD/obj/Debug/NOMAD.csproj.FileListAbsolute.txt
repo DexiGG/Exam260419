@@ -1,0 +1,13 @@
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\NOMAD.exe.config
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\NOMAD.exe
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\NOMAD.pdb
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\EntityFramework.dll
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\EntityFramework.xml
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\obj\Debug\NOMAD.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\obj\Debug\NOMAD.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\obj\Debug\NOMAD.csproj.CopyComplete
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\obj\Debug\NOMAD.exe
+c:\users\джабашевн.corp\source\repos\NOMAD\NOMAD\obj\Debug\NOMAD.pdb
